@@ -36,7 +36,7 @@ https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/02b_SQL_Dia
 
 Data extraction and loading is done with a Microsoft SQL Server Integration Services (SSIS) Project in Visual Studio 2019. The author has decided to do it in this way, in order to implement this renowned ETL tool.
 
-<img width="620" alt="ETL" src="https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/03_EL.png">
+<img width="720" alt="ETL" src="https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/03_EL.png">
 
 ## Queries preparation for data extraction
 
