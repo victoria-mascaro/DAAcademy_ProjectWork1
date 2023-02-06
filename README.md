@@ -30,7 +30,7 @@ Construction of the database with DBMS SQL Server localhost.
 
 https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/02_SQL_CreateTables.pdf
 
-https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/02b_SQL_Diagram.pdf
+<img width="620" alt="SQLdiagram" src="https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/02b_SQL-Diagram.png">
 
 ## ETL process
 
