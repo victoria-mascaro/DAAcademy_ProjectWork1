@@ -21,7 +21,7 @@ Data collection, data type classification and the modeling were carried out in g
 abstraction and construction of the conceptual/logical model with draw.io
 
 CAMBIAR URL!!
-<img width="620" alt="DataModel" src="https://user-images.githubusercontent.com/1a2894.png">
+<img width="620" alt="DataModel" src="https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/01_Model-CL.png">
 
 ## Database
 
@@ -29,21 +29,21 @@ This and the next steps, until the conclusion of the project, were carried out i
 
 Construction of the database with DBMS SQL Server localhost.
 
-CAMBIAR URL!!
-<img width="620" alt="DataModel" src="https://user-images.githubusercontent.com/1a2894.png">
+https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/02_SQL_CreateTables.pdf
+
+https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/02b_SQL_Diagram.pdf
 
 ## ETL process
 
 Data extraction and loading is done with a Microsoft SQL Server Integration Services (SSIS) Project in Visual Studio 2019. The author has decided to do it in this way, in order to implement this renowned ETL tool.
 
-<img width="620" alt="DataModel" src="https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/EL.png?raw=true">
+<img width="620" alt="DataModel" src="https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/03_EL.png">
 
 ## Queries preparation for data extraction
 
 There were defined five objectives of Data Mining. Subsequently, SQL Queries were prepared to answer these analytic goals.
 
-CAMBIAR URL!!
-<img width="620" alt="DataModel" src="https://user-images.githubusercontent.com/1a2894.png">
+https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/04_SQL-Queries.pdf
 
 ## Report and presentation
 
@@ -53,7 +53,8 @@ Additionaly, the task of this project is to create a hypothetical scenario for t
 
 Microsoft Power BI has been used to create report, inside it contains an interactive dashboard.
 
-CAMBIAR URL!!
+https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/05_ProjectWork_MASCARO.pdf
+
 <img width="620" alt="DataModel" src="https://user-images.githubusercontent.com/1a2894.png">
 
 ## Built With
