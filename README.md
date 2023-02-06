@@ -32,8 +32,7 @@ CAMBIAR URL!!
 
 Data extraction and loading is done with a Microsoft SQL Server Integration Services (SSIS) Project in Visual Studio 2019. The author has decided to do it in this way, in order to implement this renowned ETL tool.
 
-CAMBIAR URL!!
-<img width="620" alt="DataModel" src="https://user-images.githubusercontent.com/1a2894.png">
+<img width="620" alt="DataModel" src="https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/EL.png?raw=true">
 
 ## Queries preparation for data extraction
 
