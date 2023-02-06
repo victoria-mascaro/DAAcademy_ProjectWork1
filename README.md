@@ -1,9 +1,11 @@
 # Data Analytics Academy - Project Work 1
- 
-## Overview
 
 The project was carried out entirely in Italian, while it is published in English in order to extend the reach to a greater number of people.
+
+## Overview
+
 Project Work 1 is an integrative work proposed by the Academy offered by Adecco - Avanade. 
+
 The objective is to verify the capacity for synthesis, modeling, organization, analysis and communication in a Project articulated in several phases.
 
 ## Data Source
@@ -17,6 +19,7 @@ Data collection, data type classification and the modeling were carried out in g
 ## Data Model
 
 abstraction and construction of the conceptual/logical model with draw.io
+
 CAMBIAR URL!!
 <img width="620" alt="DataModel" src="https://user-images.githubusercontent.com/1a2894.png">
 
@@ -25,6 +28,7 @@ CAMBIAR URL!!
 This and the next steps, until the conclusion of the project, were carried out individually.
 
 Construction of the database with DBMS SQL Server localhost.
+
 CAMBIAR URL!!
 <img width="620" alt="DataModel" src="https://user-images.githubusercontent.com/1a2894.png">
 
@@ -46,6 +50,7 @@ CAMBIAR URL!!
 Finally, the visualization process begins: The connection to the DB is made using the SQL gateway. data extraction and loading is carried out, as well as the creation of graphs. The construction of the report is carried out based on the five analytical objectives proposed above.
 
 Additionaly, the task of this project is to create a hypothetical scenario for the analysis of the available data. For this, it is proposed a fictitious company "NetFliz" interested in evaluating new and diverse investment possibilities, according to the tastes and preferences of existing clients.
+
 Microsoft Power BI has been used to create report, inside it contains an interactive dashboard.
 
 CAMBIAR URL!!
