@@ -1,10 +1,10 @@
 # Data Analytics Academy - Project Work 1
 
-The project was carried out entirely in Italian, while it is published in English in order to extend the reach to a greater number of people.
+The project was carried out entirely in *Italian*, while it is published in *English* in order to extend the reach to a greater number of people.
 
 ## Overview
 
-Project Work 1 is an integrative work proposed by the Academy offered by Adecco - Avanade. 
+**Project Work 1** is an integrative work proposed by the Academy offered by Adecco - Avanade. 
 
 The objective is to verify the capacity for synthesis, modeling, organization, analysis and communication in a Project articulated in several phases.
 
@@ -14,7 +14,7 @@ The data source is that from the public Facebook profiles of the 12 course parti
 
 The formatting of the collected data was carried out in Google Sheets, and later it was downloaded in Microsoft Excel format to work on-premise.
 
-Data collection, data type classification and the modeling were carried out in group through a brainstorming process on the Miro.com platform.
+Data collection, data type classification and the modeling were carried out in group through a brainstorming process on the [miro](https://miro.com/) platform.
 
 ## Data Model
 
@@ -28,7 +28,9 @@ This and the next steps, until the conclusion of the project, were carried out i
 
 Construction of the database with DBMS SQL Server localhost.
 
-https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/02_SQL_CreateTables.pdf
+<!-- tratar de encontrar la forma de insertar bloque de código y que se vea solo una partecita... -->
+
+[SQL Create Table](https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/02_SQL_CreateTables.pdf)
 
 <img width="900" alt="SQLdiagram" src="https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/02b_SQL-Diagram.png">
 
@@ -42,7 +44,7 @@ Data extraction and loading is done with a Microsoft SQL Server Integration Serv
 
 There were defined five objectives of Data Mining. Subsequently, SQL Queries were prepared to answer these analytic goals.
 
-https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/04_SQL-Queries.pdf
+[SQL Queries](https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/04_SQL-Queries.pdf)
 
 ## Report and presentation
 
@@ -52,7 +54,7 @@ Additionaly, the task of this project is to create a hypothetical scenario for t
 
 Microsoft Power BI has been used to create report, inside it contains an interactive dashboard.
 
-https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/05_ProjectWork_MASCARO.pdf
+[Power BI Report](https://github.com/victoria-mascaro/DAAcademy_ProjectWork1/blob/main/05_ProjectWork_MASCARO.pdf)
 
 ## Built With
 
